@@ -1,17 +1,25 @@
 #img1{
     border-width: 1px;
-    border-color: blue;
+    border-color: maroon;
     border-style: solid;
 }
 #img2{
     border-width: 1px;
+<<<<<<< HEAD
     border-color: green;
+=======
+    border-color: maroon;
+>>>>>>> d0d2c279e10127fff8d14fb2ceeb45e32998e13d
     border-style: solid;
 
 }
 #img3{
     border-width: 1px;
+<<<<<<< HEAD
     border-color: yellow;
+=======
+    border-color: maroon;
+>>>>>>> d0d2c279e10127fff8d14fb2ceeb45e32998e13d
     border-style: solid;
 }
 #container{
