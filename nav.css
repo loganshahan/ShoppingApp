@@ -8,11 +8,11 @@ li a{
     display: block;
     width: 100px;
     color: #000;
-    background-color: gray;
+    background-color: yellow;
 
 }
 
-li a :hover{
+li a:hover{
     background-color: green;
-    color: red;
+    color: purple;
 }
